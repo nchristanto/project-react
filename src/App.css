@@ -1,0 +1,10 @@
+.card {
+  display: flex; 
+  justify-content: space-around;
+  background-color: #F44339; 
+  padding: 20px 20px; 
+}
+
+.jumbotron {
+  width: 100%
+}

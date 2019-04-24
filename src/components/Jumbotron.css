@@ -1,0 +1,9 @@
+.cover {
+  width: 260px;
+  object-fit: cover;
+  background-image: url('./images/wordpress-recipe.jpg')
+}
+
+.cover img {
+  height: 200px;
+}
